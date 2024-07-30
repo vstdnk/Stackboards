@@ -3,4 +3,6 @@
     <string name="title_activity_settings">SettingsActivity</string>
     <string name="title_activity_entrance">EntranceActivity</string>
     <string name="username">USERNAME</string>
+    <string name="enter">Enter</string>
+    <string name="your_name">YOUR NAME</string>
 </resources>
