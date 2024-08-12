@@ -5,4 +5,5 @@
     <string name="username">USERNAME</string>
     <string name="enter">Enter</string>
     <string name="your_name">YOUR NAME</string>
+    <string name="title_activity_thread">ThreadActivity</string>
 </resources>
