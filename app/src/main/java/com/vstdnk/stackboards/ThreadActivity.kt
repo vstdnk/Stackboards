@@ -19,7 +19,6 @@ class ThreadActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             StackboardsTheme {
-
             }
         }
     }
