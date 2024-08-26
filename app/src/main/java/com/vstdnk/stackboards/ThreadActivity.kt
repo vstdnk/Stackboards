@@ -18,8 +18,7 @@ class ThreadActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-            StackboardsTheme {
-            }
+
         }
     }
 }

@@ -16,6 +16,8 @@ import com.vstdnk.stackboards.ui.theme.StackboardsTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
         setContentView(R.layout.activity_main)
+
     }
 }
